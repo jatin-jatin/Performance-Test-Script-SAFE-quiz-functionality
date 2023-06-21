@@ -18,3 +18,9 @@
 
 ### Performance Test Results
 ![Locust Perf Test](https://github.com/jatin-jatin/Performance-Test-Script-SAFE-quiz-functionality/blob/main/pictures/perf-script.png)
+
+## Impact
+### Used to find a  bottleneck in SAFE backend Stack.
+![Bottleneck component](https://github.com/jatin-jatin/Performance-Test-Script-SAFE-quiz-functionality/blob/main/pictures/bottleneck.png)
+### Performance Improvement
+![Performance Improvement](https://github.com/jatin-jatin/Performance-Test-Script-SAFE-quiz-functionality/blob/main/pictures/improve.png)
