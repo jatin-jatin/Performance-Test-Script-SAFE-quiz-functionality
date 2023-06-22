@@ -1,6 +1,6 @@
 # Performance Test Scripts
 ## [SAFE](http://safe.cse.iitb.ac.in) Description
-* Smart Authenticated Fast Exams
+* **S**mart **A**uthenticated **F**ast **E**xams
 * App-Server based system - Conducting exams in class using Smart Phone.  
 ## Project Description
 * Created **scripts** for **performance testing** of **quiz functionality** in **SAFE** using **Locust**.
